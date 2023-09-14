@@ -28,8 +28,8 @@ All images have a white 10px dashed border
 
  img{
     width: 250px;
-    display: inline;
-    /* margin: 0 auto; */
+    display: block;
+    margin: auto;
     /* vertical-align: middle; */
     border: 10px dashed #ffffff;
  }
@@ -128,7 +128,7 @@ A  border of 5px on the right and 2px on the top;
  */
 
  .green{
-    background-color:#00D800;
+    background-color:#008500;
     text-align: left;
     margin-right: 50px;
    
