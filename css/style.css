@@ -28,7 +28,7 @@ All images have a white 10px dashed border
 
  img{
     width: 250px;
-    /* display: block; */
+    display: inline;
     /* margin: 0 auto; */
     /* vertical-align: middle; */
     border: 10px dashed #ffffff;
